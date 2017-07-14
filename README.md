@@ -1,2 +1,0 @@
-# lista-frutas
-lista-frutas
