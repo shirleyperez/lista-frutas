@@ -35,6 +35,6 @@
 
 
 
-#  *decimo he ingresado a mi repositorio con cd lista-frutas/.
+#  decimo he ingresado a mi repositorio con cd lista-frutas/.
 
 
